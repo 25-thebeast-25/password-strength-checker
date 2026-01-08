@@ -1,4 +1,3 @@
-Here is a polished, professional, and Markdown-ready version for your GitHub README. I have organized it with clear headers, badges, and formatting to make it look standard for open-source security tools.
 
 Password Strength Checker
 A security-focused Python tool that evaluates password strength, explains why a password is weak or strong, and provides actionable suggestions for improvement.
